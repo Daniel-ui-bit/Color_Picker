@@ -1,5 +1,26 @@
-.Sfondo{
-    background: red;
+body {
     height: 100%;
     width: 100%;
+}
+
+.Sfondo{
+    background: red;
+    height: 1000px;
+    width: 100%;
+}
+
+.Titolo{
+    position: absolute;
+    width: 584px;
+    height: 94px;
+    left: 688px;
+    top: 393px;
+
+    font-family: 'Russo One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 78px;
+    line-height: 94px;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
 }
