@@ -47,7 +47,6 @@ input[type="radio"]{
     color: #000000;
     transition: 0.5s;
  } input[type="radio"]:checked + label {
-	background-color: #ff0000be;
     border: 4px solid #000000;
 	}
 
@@ -58,6 +57,61 @@ input[type="radio"]{
     left: 735px;
     top: 615px;
     background: #FE0202;
+    border-radius: 10px;
+    border: 4px solid #FFFFFF;
+}
+
+.Verde{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 815px;
+    top: 615px;
+    background: #59BC98;
+    border-radius: 10px;
+    border: 4px solid #FFFFFF;
+}
+
+.Blu{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 895px;
+    top: 615px;
+    background: #2594D2;
+    border-radius: 10px;
+    border: 4px solid #FFFFFF;
+}
+
+.Verde_Chiaro{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 975px;
+    top: 615px;
+    background: #72BC59;
+    border-radius: 10px;
+    border: 4px solid #FFFFFF;
+}
+
+.Rosa{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 1055px;
+    top: 615px;
+    background: #BC59A0;
+    border-radius: 10px;
+    border: 4px solid #FFFFFF;
+}
+
+.Giallo{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 1135px;
+    top: 615px;
+    background: #DCF73C;
     border-radius: 10px;
     border: 4px solid #FFFFFF;
 }
