@@ -1,21 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
 body {
-    height: 100%;
-    width: 100%;
+    background: red;
 }
 
 .Sfondo{
-    background: red;
-    height: 1000px;
+    height: 100%;
     width: 100%;
 }
 
 .Titolo{
     position: absolute;
-    width: 584px;
-    height: 94px;
-    left: 688px;
-    top: 393px;
-
+    left: 668px;
+    top: 373px;
     font-family: 'Russo One';
     font-style: normal;
     font-weight: 400;
@@ -27,10 +24,9 @@ body {
 
 .Sottotitolo{
     position: absolute;
-    width: 622px;
-    height: 27px;
-    left: 688px;
+    left: 649px;
     top: 512px;
+    
 
     font-family: 'Russo One';
     font-style: normal;
@@ -59,8 +55,8 @@ input[type="radio"]{
     position: absolute;
     width: 50px;
     height: 50px;
-    left: 688px;
-    top: 605px;
+    left: 735px;
+    top: 615px;
     background: #FE0202;
     border-radius: 10px;
     border: 4px solid #FFFFFF;
